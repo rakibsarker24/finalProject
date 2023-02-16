@@ -1,5 +1,4 @@
 import React from 'react'
-import { Row,Col,Card,Button, Container } from 'react-bootstrap'
 import Registration from './components/registration/Registration'
 import Loing from './components/login/Login'
 import { BrowserRouter,Route,Routes } from 'react-router-dom'
